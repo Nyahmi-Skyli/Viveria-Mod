@@ -1,0 +1,9 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "ctm",
+        "textures": [
+            "viveria:blocks/lead_ore_ctm"
+        ]
+    }
+}

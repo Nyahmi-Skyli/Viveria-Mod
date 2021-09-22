@@ -1,0 +1,78 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "LeadOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lead_ore"
+    },
+    {
+      "name": "RawBrownstone",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_brownstone"
+    },
+    {
+      "name": "CobbledBrownstone",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobbled_brownstone"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "metal_new",
+      "files": [
+        "metal1",
+        "metal2",
+        "metal3",
+        "metal4",
+        "metal5",
+        "metal7"
+      ],
+      "category": "block",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.metal_new": "",
+      "block.viveria.lead_ore": "Lead Ore",
+      "block.viveria.cobbled_brownstone": "Cobbled Brownstone",
+      "block.viveria.raw_brownstone": "Raw Brownstone"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "viveria",
+    "modName": "Viveria",
+    "version": "1.0.0",
+    "author": "Nyahmi, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "com.nyahmi.viveria",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

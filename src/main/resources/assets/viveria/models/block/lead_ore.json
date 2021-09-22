@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "viveria:blocks/lead_ore",
+    "up": "viveria:blocks/lead_ore",
+    "north": "viveria:blocks/lead_ore",
+    "east": "viveria:blocks/lead_ore",
+    "south": "viveria:blocks/lead_ore",
+    "west": "viveria:blocks/lead_ore",
+    "particle": "viveria:blocks/lead_ore"
+  }
+}

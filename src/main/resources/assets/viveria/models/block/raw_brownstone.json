@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "viveria:blocks/brownstone",
+    "up": "viveria:blocks/brownstone",
+    "north": "viveria:blocks/brownstone",
+    "east": "viveria:blocks/brownstone",
+    "south": "viveria:blocks/brownstone",
+    "west": "viveria:blocks/brownstone",
+    "particle": "viveria:blocks/brownstone"
+  }
+}
