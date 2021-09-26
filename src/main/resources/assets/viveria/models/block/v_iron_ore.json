@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "viveria:blocks/iron_ore",
+    "up": "viveria:blocks/iron_ore",
+    "north": "viveria:blocks/iron_ore",
+    "east": "viveria:blocks/iron_ore",
+    "south": "viveria:blocks/iron_ore",
+    "west": "viveria:blocks/iron_ore",
+    "particle": "viveria:blocks/iron_ore"
+  }
+}

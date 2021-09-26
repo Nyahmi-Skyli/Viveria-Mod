@@ -27,6 +27,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cobbled_brownstone"
+    },
+    {
+      "name": "VIronOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "v_iron_ore"
     }
   ],
   "variable_elements": [],
@@ -49,6 +58,7 @@
     "en_us": {
       "subtitles.metal_new": "",
       "block.viveria.lead_ore": "Lead Ore",
+      "block.viveria.v_iron_ore": "Iron Ore",
       "block.viveria.cobbled_brownstone": "Cobbled Brownstone",
       "block.viveria.raw_brownstone": "Raw Brownstone"
     }

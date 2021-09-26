@@ -2,12 +2,12 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "lead_ore",
-    "textureTop": "lead_ore",
-    "textureLeft": "lead_ore",
-    "textureFront": "lead_ore",
-    "textureRight": "lead_ore",
-    "textureBack": "lead_ore",
+    "texture": "iron_ore",
+    "textureTop": "iron_ore",
+    "textureLeft": "iron_ore",
+    "textureFront": "iron_ore",
+    "textureRight": "iron_ore",
+    "textureBack": "iron_ore",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -32,9 +32,9 @@
         "subtract": false
       }
     ],
-    "name": "Lead Ore",
+    "name": "Iron Ore",
     "specialInfo": [],
-    "hardness": 1.2,
+    "hardness": 1.4,
     "resistance": 8.0,
     "hasGravity": false,
     "isWaterloggable": false,
@@ -75,28 +75,28 @@
     "jumpFactor": 1.0,
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
-    "isCustomSoundType": true,
+    "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "GROUND"
+      "value": "NETHERITE"
     },
     "breakSound": {
-      "value": "CUSTOM:metal_new"
+      "value": ""
     },
     "stepSound": {
-      "value": "block.netherite_block.step"
+      "value": ""
     },
     "placeSound": {
-      "value": "CUSTOM:metal_new"
+      "value": ""
     },
     "hitSound": {
-      "value": "CUSTOM:metal_new"
+      "value": ""
     },
     "fallSound": {
-      "value": "block.netherite_block.fall"
+      "value": ""
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 1,
+    "breakHarvestLevel": 2,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
