@@ -3,5 +3,6 @@
   "block.viveria.lead_ore": "Lead Ore",
   "block.viveria.v_iron_ore": "Iron Ore",
   "block.viveria.cobbled_brownstone": "Cobbled Brownstone",
-  "block.viveria.raw_brownstone": "Raw Brownstone"
+  "block.viveria.raw_brownstone": "Raw Brownstone",
+  "block.viveria.meteorite": "Meteorite"
 }

@@ -36,6 +36,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "v_iron_ore"
+    },
+    {
+      "name": "Meteorite",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meteorite"
+    },
+    {
+      "name": "EmberRed",
+      "type": "particle",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ember_red"
     }
   ],
   "variable_elements": [],
@@ -60,7 +78,8 @@
       "block.viveria.lead_ore": "Lead Ore",
       "block.viveria.v_iron_ore": "Iron Ore",
       "block.viveria.cobbled_brownstone": "Cobbled Brownstone",
-      "block.viveria.raw_brownstone": "Raw Brownstone"
+      "block.viveria.raw_brownstone": "Raw Brownstone",
+      "block.viveria.meteorite": "Meteorite"
     }
   },
   "foldersRoot": {
